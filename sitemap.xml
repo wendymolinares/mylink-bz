@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://me.mylink.bz/privacy/</loc>
-    <lastmod>2026-11-04T22:21:19.822Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://me.mylink.bz/terms/</loc>
-    <lastmod>2026-11-04T22:20:46.024Z</lastmod>
+    <lastmod>2026-11-04T22:21:53.013Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://me.mylink.bz/</loc>
-    <lastmod>2026-11-04T21:52:36.987Z</lastmod>
+    <lastmod>2026-11-04T22:21:46.884Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://me.mylink.bz/privacy/</loc>
+    <lastmod>2026-11-04T22:21:42.712Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
