@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wendymolinares.github.io/mylink-bz/sitemap.xml
+Sitemap: https://me.mylink.bz/sitemap.xml
